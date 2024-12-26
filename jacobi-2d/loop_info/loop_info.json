@@ -1,0 +1,12 @@
+[
+    {
+        "function_name": "kernel_jacobi_2d",
+        "line_number": 27,
+        "loops": [
+            {
+                "line_number": 36,
+                "nested_loops": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "function_name": "kernel_nussinov",
+        "line_number": 36,
+        "loops": [
+            {
+                "line_number": 42,
+                "nested_loops": [
+                    {
+                        "line_number": 43,
+                        "nested_loops": [
+                            {
+                                "line_number": 58,
+                                "nested_loops": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "function_name": "kernel_ludcmp",
+        "line_number": 25,
+        "loops": [
+            {
+                "line_number": 36,
+                "nested_loops": [
+                    {
+                        "line_number": 37,
+                        "nested_loops": [
+                            {
+                                "line_number": 39,
+                                "nested_loops": []
+                            }
+                        ]
+                    },
+                    {
+                        "line_number": 44,
+                        "nested_loops": [
+                            {
+                                "line_number": 46,
+                                "nested_loops": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "line_number": 53,
+                "nested_loops": []
+            },
+            {
+                "line_number": 60,
+                "nested_loops": []
+            }
+        ]
+    }
+]

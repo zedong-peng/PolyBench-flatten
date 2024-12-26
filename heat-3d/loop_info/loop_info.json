@@ -1,0 +1,41 @@
+[
+    {
+        "function_name": "kernel_heat_3d",
+        "line_number": 27,
+        "loops": [
+            {
+                "line_number": 35,
+                "nested_loops": [
+                    {
+                        "line_number": 36,
+                        "nested_loops": [
+                            {
+                                "line_number": 37,
+                                "nested_loops": [
+                                    {
+                                        "line_number": 38,
+                                        "nested_loops": []
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "line_number": 46,
+                        "nested_loops": [
+                            {
+                                "line_number": 47,
+                                "nested_loops": [
+                                    {
+                                        "line_number": 48,
+                                        "nested_loops": []
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

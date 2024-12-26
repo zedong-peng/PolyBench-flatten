@@ -1,0 +1,44 @@
+[
+    {
+        "function_name": "kernel_deriche",
+        "line_number": 26,
+        "loops": [
+            {
+                "line_number": 51,
+                "nested_loops": [
+                    {
+                        "line_number": 55,
+                        "nested_loops": []
+                    }
+                ]
+            },
+            {
+                "line_number": 63,
+                "nested_loops": [
+                    {
+                        "line_number": 68,
+                        "nested_loops": []
+                    }
+                ]
+            },
+            {
+                "line_number": 82,
+                "nested_loops": [
+                    {
+                        "line_number": 86,
+                        "nested_loops": []
+                    }
+                ]
+            },
+            {
+                "line_number": 95,
+                "nested_loops": [
+                    {
+                        "line_number": 100,
+                        "nested_loops": []
+                    }
+                ]
+            }
+        ]
+    }
+]

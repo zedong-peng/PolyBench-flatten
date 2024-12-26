@@ -1,0 +1,12 @@
+[
+    {
+        "function_name": "kernel_syr2k",
+        "line_number": 26,
+        "loops": [
+            {
+                "line_number": 42,
+                "nested_loops": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "function_name": "kernel_covariance",
+        "line_number": 31,
+        "loops": [
+            {
+                "line_number": 41,
+                "nested_loops": []
+            }
+        ]
+    }
+]

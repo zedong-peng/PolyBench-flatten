@@ -1,0 +1,17 @@
+Root
+├── HLS UNROLL factor=1, Line: 41
+│   ├── HLS PIPELINE , Line: 41
+│   └── HLS PIPELINE OFF , Line: 41
+├── HLS UNROLL factor=2, Line: 41
+│   ├── HLS PIPELINE , Line: 41
+│   └── HLS PIPELINE OFF , Line: 41
+├── HLS UNROLL factor=4, Line: 41
+│   ├── HLS PIPELINE , Line: 41
+│   └── HLS PIPELINE OFF , Line: 41
+├── HLS UNROLL factor=8, Line: 41
+│   ├── HLS PIPELINE , Line: 41
+│   └── HLS PIPELINE OFF , Line: 41
+└── HLS UNROLL , Line: 41
+    ├── HLS PIPELINE , Line: 41
+    └── HLS PIPELINE OFF , Line: 41
+Design count: 10

@@ -1,0 +1,12 @@
+[
+    {
+        "function_name": "kernel_floyd_warshall",
+        "line_number": 26,
+        "loops": [
+            {
+                "line_number": 33,
+                "nested_loops": []
+            }
+        ]
+    }
+]

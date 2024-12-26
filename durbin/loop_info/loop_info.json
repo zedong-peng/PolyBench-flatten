@@ -1,0 +1,25 @@
+[
+    {
+        "function_name": "kernel_durbin",
+        "line_number": 25,
+        "loops": [
+            {
+                "line_number": 41,
+                "nested_loops": [
+                    {
+                        "line_number": 44,
+                        "nested_loops": []
+                    },
+                    {
+                        "line_number": 49,
+                        "nested_loops": []
+                    },
+                    {
+                        "line_number": 52,
+                        "nested_loops": []
+                    }
+                ]
+            }
+        ]
+    }
+]

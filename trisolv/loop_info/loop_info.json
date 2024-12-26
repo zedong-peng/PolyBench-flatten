@@ -1,0 +1,12 @@
+[
+    {
+        "function_name": "kernel_trisolv",
+        "line_number": 26,
+        "loops": [
+            {
+                "line_number": 35,
+                "nested_loops": []
+            }
+        ]
+    }
+]

@@ -1,0 +1,12 @@
+[
+    {
+        "function_name": "kernel_fdtd_2d",
+        "line_number": 26,
+        "loops": [
+            {
+                "line_number": 39,
+                "nested_loops": []
+            }
+        ]
+    }
+]
