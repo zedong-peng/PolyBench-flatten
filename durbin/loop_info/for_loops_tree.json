@@ -1,0 +1,27 @@
+{
+    "name": "Translation Unit (../../benchmark/PolyBench-flatten/durbin/durbin.c)",
+    "children": [
+        {
+            "line": 41,
+            "tripcount": 16,
+            "name": "for_loop Line:41",
+            "children": [
+                {
+                    "line": 44,
+                    "tripcount": 16,
+                    "name": "for_loop Line:44"
+                },
+                {
+                    "line": 49,
+                    "tripcount": 16,
+                    "name": "for_loop Line:49"
+                },
+                {
+                    "line": 52,
+                    "tripcount": 16,
+                    "name": "for_loop Line:52"
+                }
+            ]
+        }
+    ]
+}

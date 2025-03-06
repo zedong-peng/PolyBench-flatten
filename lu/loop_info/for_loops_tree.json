@@ -1,0 +1,36 @@
+{
+    "name": "Translation Unit (../../benchmark/PolyBench-flatten/lu/lu.c)",
+    "children": [
+        {
+            "line": 34,
+            "tripcount": 16,
+            "name": "for_loop Line:34",
+            "children": [
+                {
+                    "line": 35,
+                    "tripcount": 16,
+                    "name": "for_loop Line:35",
+                    "children": [
+                        {
+                            "line": 36,
+                            "tripcount": 16,
+                            "name": "for_loop Line:36"
+                        }
+                    ]
+                },
+                {
+                    "line": 41,
+                    "tripcount": 16,
+                    "name": "for_loop Line:41",
+                    "children": [
+                        {
+                            "line": 42,
+                            "tripcount": 16,
+                            "name": "for_loop Line:42"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

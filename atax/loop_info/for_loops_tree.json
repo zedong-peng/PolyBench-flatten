@@ -1,0 +1,27 @@
+{
+    "name": "Translation Unit (../../benchmark/PolyBench-flatten/atax/atax.c)",
+    "children": [
+        {
+            "line": 37,
+            "tripcount": 16,
+            "name": "for_loop Line:37"
+        },
+        {
+            "line": 40,
+            "tripcount": 16,
+            "name": "for_loop Line:40",
+            "children": [
+                {
+                    "line": 42,
+                    "tripcount": 16,
+                    "name": "for_loop Line:42"
+                },
+                {
+                    "line": 44,
+                    "tripcount": 16,
+                    "name": "for_loop Line:44"
+                }
+            ]
+        }
+    ]
+}

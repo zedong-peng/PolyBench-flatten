@@ -1,0 +1,48 @@
+{
+    "name": "Translation Unit (../../benchmark/PolyBench-flatten/covariance/covariance.c)",
+    "children": [
+        {
+            "line": 41,
+            "tripcount": 16,
+            "name": "for_loop Line:41",
+            "children": [
+                {
+                    "line": 43,
+                    "tripcount": 16,
+                    "name": "for_loop Line:43"
+                }
+            ]
+        },
+        {
+            "line": 48,
+            "tripcount": 16,
+            "name": "for_loop Line:48",
+            "children": [
+                {
+                    "line": 49,
+                    "tripcount": 16,
+                    "name": "for_loop Line:49"
+                }
+            ]
+        },
+        {
+            "line": 52,
+            "tripcount": 16,
+            "name": "for_loop Line:52",
+            "children": [
+                {
+                    "line": 54,
+                    "tripcount": 16,
+                    "name": "for_loop Line:54",
+                    "children": [
+                        {
+                            "line": 56,
+                            "tripcount": 16,
+                            "name": "for_loop Line:56"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

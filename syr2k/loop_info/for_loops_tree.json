@@ -1,0 +1,29 @@
+{
+    "name": "Translation Unit (../../benchmark/PolyBench-flatten/syr2k/syr2k.c)",
+    "children": [
+        {
+            "line": 42,
+            "tripcount": 16,
+            "name": "for_loop Line:42",
+            "children": [
+                {
+                    "line": 43,
+                    "tripcount": 16,
+                    "name": "for_loop Line:43"
+                },
+                {
+                    "line": 45,
+                    "tripcount": 16,
+                    "name": "for_loop Line:45",
+                    "children": [
+                        {
+                            "line": 47,
+                            "tripcount": 16,
+                            "name": "for_loop Line:47"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

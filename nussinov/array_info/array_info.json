@@ -1,1 +1,36 @@
-[]
+[
+    {
+        "array_name": "seq",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16307
+        ],
+        "line_per_dimension": [
+            88
+        ]
+    },
+    {
+        "array_name": "N_array",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16307,
+            16307
+        ],
+        "line_per_dimension": [
+            89,
+            89
+        ]
+    },
+    {
+        "array_name": "N_array_has_been_read",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16307,
+            16307
+        ],
+        "line_per_dimension": [
+            133,
+            133
+        ]
+    }
+]

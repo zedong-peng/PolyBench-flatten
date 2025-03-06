@@ -1,0 +1,60 @@
+{
+    "name": "Translation Unit (../../benchmark/PolyBench-flatten/correlation/correlation.c)",
+    "children": [
+        {
+            "line": 46,
+            "tripcount": 16,
+            "name": "for_loop Line:46",
+            "children": [
+                {
+                    "line": 48,
+                    "tripcount": 16,
+                    "name": "for_loop Line:48"
+                }
+            ]
+        },
+        {
+            "line": 55,
+            "tripcount": 16,
+            "name": "for_loop Line:55",
+            "children": [
+                {
+                    "line": 57,
+                    "tripcount": 16,
+                    "name": "for_loop Line:57"
+                }
+            ]
+        },
+        {
+            "line": 68,
+            "tripcount": 16,
+            "name": "for_loop Line:68",
+            "children": [
+                {
+                    "line": 70,
+                    "tripcount": 16,
+                    "name": "for_loop Line:70"
+                }
+            ]
+        },
+        {
+            "line": 77,
+            "tripcount": 16,
+            "name": "for_loop Line:77",
+            "children": [
+                {
+                    "line": 80,
+                    "tripcount": 16,
+                    "name": "for_loop Line:80",
+                    "children": [
+                        {
+                            "line": 82,
+                            "tripcount": 16,
+                            "name": "for_loop Line:82"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

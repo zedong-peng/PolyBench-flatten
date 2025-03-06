@@ -1,1 +1,38 @@
-[]
+[
+    {
+        "array_name": "A",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            27,
+            27
+        ]
+    },
+    {
+        "array_name": "R",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            28,
+            28
+        ]
+    },
+    {
+        "array_name": "Q",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            29,
+            29
+        ]
+    }
+]

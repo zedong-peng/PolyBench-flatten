@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "array_name": "u",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            28,
+            28
+        ]
+    },
+    {
+        "array_name": "v",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            28,
+            28
+        ]
+    },
+    {
+        "array_name": "p",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            28,
+            28
+        ]
+    },
+    {
+        "array_name": "q",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            28,
+            28
+        ]
+    }
+]

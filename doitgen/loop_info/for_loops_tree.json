@@ -1,0 +1,36 @@
+{
+    "name": "Translation Unit (../../benchmark/PolyBench-flatten/doitgen/doitgen.c)",
+    "children": [
+        {
+            "line": 34,
+            "tripcount": 16,
+            "name": "for_loop Line:34",
+            "children": [
+                {
+                    "line": 35,
+                    "tripcount": 16,
+                    "name": "for_loop Line:35",
+                    "children": [
+                        {
+                            "line": 36,
+                            "tripcount": 16,
+                            "name": "for_loop Line:36",
+                            "children": [
+                                {
+                                    "line": 38,
+                                    "tripcount": 16,
+                                    "name": "for_loop Line:38"
+                                }
+                            ]
+                        },
+                        {
+                            "line": 41,
+                            "tripcount": 16,
+                            "name": "for_loop Line:41"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,46 @@
-[]
+[
+    {
+        "array_name": "data",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            30,
+            30
+        ]
+    },
+    {
+        "array_name": "corr",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            31,
+            31
+        ]
+    },
+    {
+        "array_name": "mean",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ],
+        "line_per_dimension": [
+            32
+        ]
+    },
+    {
+        "array_name": "stddev",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ],
+        "line_per_dimension": [
+            33
+        ]
+    }
+]

@@ -1,1 +1,34 @@
-[]
+[
+    {
+        "array_name": "L",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            27,
+            27
+        ]
+    },
+    {
+        "array_name": "x",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ],
+        "line_per_dimension": [
+            27
+        ]
+    },
+    {
+        "array_name": "b",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ],
+        "line_per_dimension": [
+            27
+        ]
+    }
+]

@@ -1,0 +1,24 @@
+{
+    "name": "Translation Unit (../../benchmark/PolyBench-flatten/symm/symm.c)",
+    "children": [
+        {
+            "line": 46,
+            "tripcount": 16,
+            "name": "for_loop Line:46",
+            "children": [
+                {
+                    "line": 48,
+                    "tripcount": 16,
+                    "name": "for_loop Line:48",
+                    "children": [
+                        {
+                            "line": 50,
+                            "tripcount": 16,
+                            "name": "for_loop Line:50"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,1 +1,94 @@
-[]
+[
+    {
+        "array_name": "A",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            27,
+            27
+        ]
+    },
+    {
+        "array_name": "u1",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ],
+        "line_per_dimension": [
+            28
+        ]
+    },
+    {
+        "array_name": "v1",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ],
+        "line_per_dimension": [
+            29
+        ]
+    },
+    {
+        "array_name": "u2",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ],
+        "line_per_dimension": [
+            30
+        ]
+    },
+    {
+        "array_name": "v2",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ],
+        "line_per_dimension": [
+            31
+        ]
+    },
+    {
+        "array_name": "w",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ],
+        "line_per_dimension": [
+            32
+        ]
+    },
+    {
+        "array_name": "x",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ],
+        "line_per_dimension": [
+            33
+        ]
+    },
+    {
+        "array_name": "y",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ],
+        "line_per_dimension": [
+            34
+        ]
+    },
+    {
+        "array_name": "z",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ],
+        "line_per_dimension": [
+            35
+        ]
+    }
+]

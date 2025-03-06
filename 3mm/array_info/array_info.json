@@ -1,1 +1,86 @@
-[]
+[
+    {
+        "array_name": "E",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            24,
+            24
+        ]
+    },
+    {
+        "array_name": "A",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            25,
+            25
+        ]
+    },
+    {
+        "array_name": "B",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            26,
+            26
+        ]
+    },
+    {
+        "array_name": "F",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            27,
+            27
+        ]
+    },
+    {
+        "array_name": "C",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            28,
+            28
+        ]
+    },
+    {
+        "array_name": "D",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            29,
+            29
+        ]
+    },
+    {
+        "array_name": "G",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            30,
+            30
+        ]
+    }
+]

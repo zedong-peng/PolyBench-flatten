@@ -1,0 +1,24 @@
+{
+    "name": "Translation Unit (../../benchmark/PolyBench-flatten/floyd-warshall/floyd-warshall.c)",
+    "children": [
+        {
+            "line": 33,
+            "tripcount": 16,
+            "name": "for_loop Line:33",
+            "children": [
+                {
+                    "line": 34,
+                    "tripcount": 16,
+                    "name": "for_loop Line:34",
+                    "children": [
+                        {
+                            "line": 35,
+                            "tripcount": 16,
+                            "name": "for_loop Line:35"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

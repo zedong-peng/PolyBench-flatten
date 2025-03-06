@@ -1,0 +1,17 @@
+{
+    "name": "Translation Unit (../../benchmark/PolyBench-flatten/trisolv/trisolv.c)",
+    "children": [
+        {
+            "line": 35,
+            "tripcount": 16,
+            "name": "for_loop Line:35",
+            "children": [
+                {
+                    "line": 37,
+                    "tripcount": 16,
+                    "name": "for_loop Line:37"
+                }
+            ]
+        }
+    ]
+}

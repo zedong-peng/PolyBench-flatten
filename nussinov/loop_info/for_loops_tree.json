@@ -1,0 +1,29 @@
+{
+    "name": "Translation Unit (../../benchmark/PolyBench-flatten/nussinov/Nussinov.orig.c)",
+    "children": [
+        {
+            "line": 239,
+            "tripcount": 16,
+            "name": "for_loop Line:239",
+            "children": [
+                {
+                    "line": 240,
+                    "tripcount": 16,
+                    "name": "for_loop Line:240",
+                    "children": [
+                        {
+                            "line": 256,
+                            "tripcount": 16,
+                            "name": "for_loop Line:256"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "line": 278,
+            "tripcount": 16,
+            "name": "for_loop Line:278"
+        }
+    ]
+}

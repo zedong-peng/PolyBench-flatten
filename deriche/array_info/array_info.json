@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "array_name": "imgIn",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            24,
+            24
+        ]
+    },
+    {
+        "array_name": "imgOut",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            24,
+            24
+        ]
+    },
+    {
+        "array_name": "y1",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            24,
+            24
+        ]
+    },
+    {
+        "array_name": "y2",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            24,
+            24
+        ]
+    }
+]

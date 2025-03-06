@@ -1,1 +1,48 @@
-[]
+[
+    {
+        "array_name": "ex",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            27,
+            27
+        ]
+    },
+    {
+        "array_name": "ey",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            27,
+            27
+        ]
+    },
+    {
+        "array_name": "hz",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            27,
+            27
+        ]
+    },
+    {
+        "array_name": "_fict_",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ],
+        "line_per_dimension": [
+            27
+        ]
+    }
+]

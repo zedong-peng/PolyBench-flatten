@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "array_name": "path",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            23,
+            23
+        ]
+    }
+]

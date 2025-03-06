@@ -1,0 +1,46 @@
+{
+    "name": "Translation Unit (../../benchmark/PolyBench-flatten/adi/adi.c)",
+    "children": [
+        {
+            "line": 59,
+            "tripcount": 16,
+            "name": "for_loop Line:59",
+            "children": [
+                {
+                    "line": 61,
+                    "tripcount": 16,
+                    "name": "for_loop Line:61",
+                    "children": [
+                        {
+                            "line": 65,
+                            "tripcount": 16,
+                            "name": "for_loop Line:65"
+                        },
+                        {
+                            "line": 71,
+                            "tripcount": 16,
+                            "name": "for_loop Line:71"
+                        }
+                    ]
+                },
+                {
+                    "line": 76,
+                    "tripcount": 16,
+                    "name": "for_loop Line:76",
+                    "children": [
+                        {
+                            "line": 80,
+                            "tripcount": 16,
+                            "name": "for_loop Line:80"
+                        },
+                        {
+                            "line": 85,
+                            "tripcount": 16,
+                            "name": "for_loop Line:85"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

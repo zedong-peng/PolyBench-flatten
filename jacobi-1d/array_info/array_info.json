@@ -1,1 +1,22 @@
-[]
+[
+    {
+        "array_name": "A",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ],
+        "line_per_dimension": [
+            27
+        ]
+    },
+    {
+        "array_name": "B",
+        "dimensions": 1,
+        "size_per_dimension": [
+            16
+        ],
+        "line_per_dimension": [
+            27
+        ]
+    }
+]

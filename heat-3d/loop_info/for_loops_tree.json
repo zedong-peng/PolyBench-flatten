@@ -1,0 +1,50 @@
+{
+    "name": "Translation Unit (../../benchmark/PolyBench-flatten/heat-3d/heat-3d.c)",
+    "children": [
+        {
+            "line": 35,
+            "tripcount": 16,
+            "name": "for_loop Line:35",
+            "children": [
+                {
+                    "line": 36,
+                    "tripcount": 16,
+                    "name": "for_loop Line:36",
+                    "children": [
+                        {
+                            "line": 37,
+                            "tripcount": 16,
+                            "name": "for_loop Line:37",
+                            "children": [
+                                {
+                                    "line": 38,
+                                    "tripcount": 16,
+                                    "name": "for_loop Line:38"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "line": 46,
+                    "tripcount": 16,
+                    "name": "for_loop Line:46",
+                    "children": [
+                        {
+                            "line": 47,
+                            "tripcount": 16,
+                            "name": "for_loop Line:47",
+                            "children": [
+                                {
+                                    "line": 48,
+                                    "tripcount": 16,
+                                    "name": "for_loop Line:48"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
