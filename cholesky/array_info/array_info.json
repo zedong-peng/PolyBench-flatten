@@ -7,8 +7,20 @@
             16
         ],
         "line_per_dimension": [
-            28,
-            46
+            25,
+            25
+        ]
+    },
+    {
+        "array_name": "A",
+        "dimensions": 2,
+        "size_per_dimension": [
+            16,
+            16
+        ],
+        "line_per_dimension": [
+            43,
+            43
         ]
     }
 ]
