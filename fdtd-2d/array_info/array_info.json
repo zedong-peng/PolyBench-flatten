@@ -3,46 +3,46 @@
         "array_name": "ex",
         "dimensions": 2,
         "size_per_dimension": [
-            16,
-            16
+            1024,
+            1024
         ],
         "line_per_dimension": [
-            24,
-            24
+            33,
+            33
         ]
     },
     {
         "array_name": "ey",
         "dimensions": 2,
         "size_per_dimension": [
-            16,
-            16
+            1024,
+            1024
         ],
         "line_per_dimension": [
-            24,
-            24
+            33,
+            33
         ]
     },
     {
         "array_name": "hz",
         "dimensions": 2,
         "size_per_dimension": [
-            16,
-            16
+            1024,
+            1024
         ],
         "line_per_dimension": [
-            24,
-            24
+            33,
+            33
         ]
     },
     {
         "array_name": "_fict_",
         "dimensions": 1,
         "size_per_dimension": [
-            16
+            1024
         ],
         "line_per_dimension": [
-            24
+            33
         ]
     }
 ]

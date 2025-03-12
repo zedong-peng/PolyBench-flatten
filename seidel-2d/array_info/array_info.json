@@ -3,12 +3,12 @@
         "array_name": "A",
         "dimensions": 2,
         "size_per_dimension": [
-            16,
-            16
+            "N",
+            "N"
         ],
         "line_per_dimension": [
-            27,
-            27
+            30,
+            30
         ]
     }
 ]

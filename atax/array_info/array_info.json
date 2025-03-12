@@ -3,42 +3,42 @@
         "array_name": "A",
         "dimensions": 2,
         "size_per_dimension": [
-            16,
-            16
+            1024,
+            1024
         ],
         "line_per_dimension": [
-            27,
-            27
+            33,
+            33
         ]
     },
     {
         "array_name": "x",
         "dimensions": 1,
         "size_per_dimension": [
-            16
+            1024
         ],
         "line_per_dimension": [
-            27
+            33
         ]
     },
     {
         "array_name": "y",
         "dimensions": 1,
         "size_per_dimension": [
-            16
+            1024
         ],
         "line_per_dimension": [
-            27
+            33
         ]
     },
     {
         "array_name": "tmp",
         "dimensions": 1,
         "size_per_dimension": [
-            16
+            1024
         ],
         "line_per_dimension": [
-            27
+            33
         ]
     }
 ]

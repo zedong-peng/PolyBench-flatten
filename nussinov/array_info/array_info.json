@@ -3,34 +3,22 @@
         "array_name": "seq",
         "dimensions": 1,
         "size_per_dimension": [
-            16307
+            16
         ],
         "line_per_dimension": [
-            122
+            38
         ]
     },
     {
-        "array_name": "N_array",
+        "array_name": "table",
         "dimensions": 2,
         "size_per_dimension": [
-            16307,
-            16307
+            16,
+            16
         ],
         "line_per_dimension": [
-            123,
-            123
-        ]
-    },
-    {
-        "array_name": "N_array_has_been_read",
-        "dimensions": 2,
-        "size_per_dimension": [
-            16307,
-            16307
-        ],
-        "line_per_dimension": [
-            147,
-            147
+            38,
+            38
         ]
     }
 ]

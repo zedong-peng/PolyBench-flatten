@@ -3,36 +3,36 @@
         "array_name": "C",
         "dimensions": 2,
         "size_per_dimension": [
-            16,
-            16
+            1024,
+            1024
         ],
         "line_per_dimension": [
-            24,
-            24
+            32,
+            32
         ]
     },
     {
         "array_name": "A",
         "dimensions": 2,
         "size_per_dimension": [
-            16,
-            16
+            1024,
+            1024
         ],
         "line_per_dimension": [
-            24,
-            24
+            32,
+            32
         ]
     },
     {
         "array_name": "B",
         "dimensions": 2,
         "size_per_dimension": [
-            16,
-            16
+            1024,
+            1024
         ],
         "line_per_dimension": [
-            24,
-            24
+            32,
+            32
         ]
     }
 ]

@@ -3,52 +3,52 @@
         "array_name": "A",
         "dimensions": 2,
         "size_per_dimension": [
-            16,
-            16
+            1024,
+            1024
         ],
         "line_per_dimension": [
-            34,
-            34
+            32,
+            32
         ]
     },
     {
         "array_name": "s",
         "dimensions": 1,
         "size_per_dimension": [
-            16
+            1024
         ],
         "line_per_dimension": [
-            34
+            32
         ]
     },
     {
         "array_name": "q",
         "dimensions": 1,
         "size_per_dimension": [
-            16
+            1024
         ],
         "line_per_dimension": [
-            34
+            32
         ]
     },
     {
         "array_name": "p",
         "dimensions": 1,
         "size_per_dimension": [
-            16
+            1024
         ],
         "line_per_dimension": [
-            34
+            32
         ]
     },
     {
         "array_name": "r",
         "dimensions": 1,
         "size_per_dimension": [
-            16
+            1024
         ],
         "line_per_dimension": [
-            34
+            32
         ]
     }
 ]

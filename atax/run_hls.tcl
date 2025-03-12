@@ -1,18 +1,18 @@
-set XPART xcu280-fsvh2892-2L-e
 
-set PROJ "design_0"
-set SOLN "solution1"
-set CLKP 10
-
-open_project -reset $PROJ
-
-add_files "atax.c atax.h polybench.h"
+open_project -reset project
 set_top kernel_atax
+add_files atax.h
+add_files atax.c
+add_files polybench.h
+add_files apatb_kernel_atax.cpp
+add_files hls_design_meta.h
+add_files mapper_kernel_atax.cpp
+add_files hls_design_meta.cpp
+add_files atax.pp.0.c
 
-open_solution -reset $SOLN
-set_part $XPART
-create_clock -period $CLKP
-
+open_solution -reset "solution1"
+set_part xcu280-fsvh2892-2L-e
+create_clock -period 10
 csynth_design
-
+close_solution
 exit

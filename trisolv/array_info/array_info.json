@@ -7,8 +7,8 @@
             16
         ],
         "line_per_dimension": [
-            24,
-            24
+            30,
+            30
         ]
     },
     {
@@ -18,7 +18,7 @@
             16
         ],
         "line_per_dimension": [
-            24
+            30
         ]
     },
     {
@@ -28,7 +28,7 @@
             16
         ],
         "line_per_dimension": [
-            24
+            30
         ]
     }
 ]
